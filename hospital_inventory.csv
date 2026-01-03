@@ -1,0 +1,1001 @@
+Hospital_ID,Hospital_Name,City,Latitude,Longitude,Item_Name,Category,Quantity_Available,Minimum_Required,Status,Expiry_Date
+HOSP-1000,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,152,150,Normal,2026-04-05
+HOSP-1001,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,596,200,Normal,2027-02-12
+HOSP-1002,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,250,200,Normal,2026-03-04
+HOSP-1003,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,424,100,Normal,2027-11-11
+HOSP-1004,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,0,20,CRITICAL,2026-09-06
+HOSP-1005,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,66,15,Normal,2025-12-28
+HOSP-1006,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,61,50,Normal,2027-05-15
+HOSP-1007,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,32,50,CRITICAL,2027-07-09
+HOSP-1008,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,544,300,Normal,2026-05-02
+HOSP-1009,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,21,20,Normal,2026-08-19
+HOSP-1010,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,441,150,Normal,2026-02-09
+HOSP-1011,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,17,150,CRITICAL,2027-04-15
+HOSP-1012,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,284,100,Normal,2027-03-31
+HOSP-1013,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,1402,300,Normal,2027-03-19
+HOSP-1014,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,124,150,CRITICAL,2027-03-25
+HOSP-1015,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1569,500,Normal,2027-10-19
+HOSP-1016,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,810,500,Normal,2026-10-08
+HOSP-1017,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,1,150,CRITICAL,2027-01-31
+HOSP-1018,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,310,100,Normal,2026-08-05
+HOSP-1019,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,225,50,Normal,2027-02-13
+HOSP-1020,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,48,20,Normal,2027-09-25
+HOSP-1021,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,178,50,Normal,2027-02-23
+HOSP-1022,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,271,150,Normal,2027-11-02
+HOSP-1023,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,34,20,Normal,2026-09-21
+HOSP-1024,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,61,15,Normal,2026-01-10
+HOSP-1025,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,233,50,Normal,2027-07-11
+HOSP-1026,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,1542,500,Normal,2027-03-27
+HOSP-1027,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,23,20,Normal,2026-07-04
+HOSP-1028,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Blood Bag (O+ Positive),Blood Bank,37,20,Normal,2026-09-16
+HOSP-1029,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,938,300,Normal,2026-11-29
+HOSP-1030,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,542,200,Normal,2027-06-26
+HOSP-1031,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,72,50,Normal,2027-05-30
+HOSP-1032,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,283,100,Normal,2026-10-03
+HOSP-1033,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,505,300,Normal,2027-02-10
+HOSP-1034,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,1349,300,Normal,2027-04-21
+HOSP-1035,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,31,20,Normal,2027-03-28
+HOSP-1036,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,1696,500,Normal,2026-10-13
+HOSP-1037,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,90,50,Normal,2026-05-15
+HOSP-1038,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,38,15,Normal,2026-09-21
+HOSP-1039,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,2482,500,Normal,2027-09-03
+HOSP-1040,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,772,200,Normal,2026-07-10
+HOSP-1041,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,1072,300,Normal,2026-04-25
+HOSP-1042,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,65,15,Normal,2027-11-03
+HOSP-1043,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,50,50,Normal,2026-07-11
+HOSP-1044,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,309,100,Normal,2027-06-04
+HOSP-1045,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,253,200,Normal,2027-02-06
+HOSP-1046,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,104,100,Normal,2026-03-04
+HOSP-1047,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,400,100,Normal,2026-07-30
+HOSP-1048,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,605,200,Normal,2027-02-07
+HOSP-1049,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1980,500,Normal,2027-03-29
+HOSP-1050,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,481,100,Normal,2026-11-09
+HOSP-1051,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,19,20,CRITICAL,2027-08-01
+HOSP-1052,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,508,200,Normal,2027-05-01
+HOSP-1053,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,447,150,Normal,2026-10-11
+HOSP-1054,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,639,150,Normal,2027-08-24
+HOSP-1055,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,227,300,CRITICAL,2026-10-07
+HOSP-1056,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,2464,500,Normal,2027-11-14
+HOSP-1057,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,452,200,Normal,2027-11-11
+HOSP-1058,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,22,20,Normal,2026-04-20
+HOSP-1059,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,61,20,Normal,2026-05-24
+HOSP-1060,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,457,200,Normal,2027-10-09
+HOSP-1061,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,1438,300,Normal,2026-05-03
+HOSP-1062,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,52,20,Normal,2027-10-02
+HOSP-1063,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,3,15,CRITICAL,2026-05-29
+HOSP-1064,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,574,150,Normal,2026-07-02
+HOSP-1065,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,145,150,CRITICAL,2026-08-13
+HOSP-1066,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,2013,500,Normal,2027-02-22
+HOSP-1067,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,464,200,Normal,2027-04-25
+HOSP-1068,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,1275,300,Normal,2027-04-04
+HOSP-1069,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,298,500,CRITICAL,2027-01-14
+HOSP-1070,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,624,150,Normal,2026-07-30
+HOSP-1071,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Blood Bag (O+ Positive),Blood Bank,53,20,Normal,2027-05-28
+HOSP-1072,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,1026,300,Normal,2026-09-11
+HOSP-1073,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,123,50,Normal,2027-02-20
+HOSP-1074,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,200,300,CRITICAL,2026-09-06
+HOSP-1075,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,63,15,Normal,2026-06-06
+HOSP-1076,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,3,15,CRITICAL,2027-02-07
+HOSP-1077,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,721,200,Normal,2027-07-11
+HOSP-1078,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,436,100,Normal,2026-10-10
+HOSP-1079,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,762,200,Normal,2026-05-11
+HOSP-1080,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,216,100,Normal,2027-06-02
+HOSP-1081,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,9,100,CRITICAL,2026-01-24
+HOSP-1082,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,17,15,Normal,2026-06-30
+HOSP-1083,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,135,100,Normal,2026-04-17
+HOSP-1084,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,223,50,Normal,2027-03-25
+HOSP-1085,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,470,100,Normal,2027-09-16
+HOSP-1086,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,1333,300,Normal,2026-08-18
+HOSP-1087,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,827,300,Normal,2026-06-03
+HOSP-1088,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,59,15,Normal,2026-03-27
+HOSP-1089,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,1353,500,Normal,2026-03-30
+HOSP-1090,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,19,200,CRITICAL,2027-03-21
+HOSP-1091,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,233,100,Normal,2027-04-26
+HOSP-1092,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,179,100,Normal,2027-03-19
+HOSP-1093,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,739,150,Normal,2027-05-08
+HOSP-1094,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,1349,300,Normal,2027-05-03
+HOSP-1095,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,209,50,Normal,2027-09-24
+HOSP-1096,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,98,150,CRITICAL,2026-11-18
+HOSP-1097,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,213,200,Normal,2027-09-04
+HOSP-1098,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,120,50,Normal,2027-01-11
+HOSP-1099,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,122,50,Normal,2026-09-13
+HOSP-1100,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,73,20,Normal,2027-03-26
+HOSP-1101,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,48,15,Normal,2025-12-26
+HOSP-1102,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,279,200,Normal,2026-04-24
+HOSP-1103,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,177,200,CRITICAL,2026-06-09
+HOSP-1104,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,2199,500,Normal,2027-08-10
+HOSP-1105,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,831,500,Normal,2026-04-17
+HOSP-1106,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,869,200,Normal,2027-08-30
+HOSP-1107,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,538,200,Normal,2026-12-25
+HOSP-1108,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,65,15,Normal,2026-03-17
+HOSP-1109,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,7,15,CRITICAL,2026-04-13
+HOSP-1110,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,830,500,Normal,2026-04-26
+HOSP-1111,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,54,15,Normal,2026-05-17
+HOSP-1112,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,984,200,Normal,2026-11-12
+HOSP-1113,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,128,100,Normal,2026-08-27
+HOSP-1114,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,1350,500,Normal,2026-05-16
+HOSP-1115,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,1380,500,Normal,2026-09-16
+HOSP-1116,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,39,15,Normal,2026-08-21
+HOSP-1117,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,416,200,Normal,2027-03-19
+HOSP-1118,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,180,50,Normal,2027-09-02
+HOSP-1119,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,239,50,Normal,2025-12-31
+HOSP-1120,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,257,150,Normal,2026-04-30
+HOSP-1121,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,611,200,Normal,2026-03-11
+HOSP-1122,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,64,20,Normal,2026-12-05
+HOSP-1123,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,98,300,CRITICAL,2026-07-11
+HOSP-1124,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,88,20,Normal,2027-07-09
+HOSP-1125,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,875,300,Normal,2026-09-23
+HOSP-1126,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,87,100,CRITICAL,2026-05-27
+HOSP-1127,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,757,200,Normal,2026-04-25
+HOSP-1128,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,308,100,Normal,2027-06-16
+HOSP-1129,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,737,150,Normal,2027-08-26
+HOSP-1130,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,75,100,CRITICAL,2026-10-08
+HOSP-1131,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,68,150,CRITICAL,2026-05-25
+HOSP-1132,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,8,15,CRITICAL,2026-09-16
+HOSP-1133,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,462,100,Normal,2026-11-25
+HOSP-1134,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,2321,500,Normal,2026-10-18
+HOSP-1135,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,390,100,Normal,2027-09-12
+HOSP-1136,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,1136,300,Normal,2026-10-16
+HOSP-1137,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,165,100,Normal,2026-07-06
+HOSP-1138,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,98,20,Normal,2026-11-02
+HOSP-1139,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,179,200,CRITICAL,2027-06-20
+HOSP-1140,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,561,150,Normal,2027-10-07
+HOSP-1141,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,66,20,Normal,2027-03-10
+HOSP-1142,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,1113,300,Normal,2026-09-10
+HOSP-1143,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,186,100,Normal,2027-03-11
+HOSP-1144,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,63,15,Normal,2026-01-04
+HOSP-1145,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,1743,500,Normal,2026-02-09
+HOSP-1146,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,79,50,Normal,2026-06-10
+HOSP-1147,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,44,15,Normal,2026-07-10
+HOSP-1148,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,26,15,Normal,2026-04-06
+HOSP-1149,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,654,500,Normal,2027-02-28
+HOSP-1150,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,1735,500,Normal,2026-04-03
+HOSP-1151,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,160,100,Normal,2027-08-10
+HOSP-1152,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,446,150,Normal,2026-07-01
+HOSP-1153,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,81,20,Normal,2027-02-11
+HOSP-1154,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,1,15,CRITICAL,2026-12-20
+HOSP-1155,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,592,300,Normal,2026-07-22
+HOSP-1156,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,36,20,Normal,2026-10-25
+HOSP-1157,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,702,200,Normal,2026-04-16
+HOSP-1158,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,63,15,Normal,2026-03-28
+HOSP-1159,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,10,50,CRITICAL,2027-07-02
+HOSP-1160,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,30,100,CRITICAL,2027-09-09
+HOSP-1161,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,694,300,Normal,2027-07-20
+HOSP-1162,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,1349,300,Normal,2027-04-04
+HOSP-1163,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,434,300,Normal,2027-06-20
+HOSP-1164,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,790,300,Normal,2027-04-13
+HOSP-1165,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,1514,500,Normal,2027-10-28
+HOSP-1166,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Blood Bag (O+ Positive),Blood Bank,5,20,CRITICAL,2027-01-22
+HOSP-1167,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,1948,500,Normal,2026-02-17
+HOSP-1168,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,429,200,Normal,2027-02-24
+HOSP-1169,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,277,100,Normal,2026-04-13
+HOSP-1170,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,210,150,Normal,2026-10-11
+HOSP-1171,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,86,20,Normal,2026-07-20
+HOSP-1172,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,933,200,Normal,2027-08-26
+HOSP-1173,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,3,100,CRITICAL,2026-07-10
+HOSP-1174,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,529,200,Normal,2027-10-20
+HOSP-1175,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,82,150,CRITICAL,2026-07-04
+HOSP-1176,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,142,50,Normal,2026-04-09
+HOSP-1177,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,430,300,Normal,2027-07-08
+HOSP-1178,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,1103,300,Normal,2026-05-24
+HOSP-1179,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,23,200,CRITICAL,2027-03-18
+HOSP-1180,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,461,200,Normal,2026-11-20
+HOSP-1181,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,186,200,CRITICAL,2026-10-24
+HOSP-1182,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,70,20,Normal,2027-04-03
+HOSP-1183,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,211,150,Normal,2027-04-03
+HOSP-1184,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,65,20,Normal,2026-08-10
+HOSP-1185,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,1066,300,Normal,2026-03-14
+HOSP-1186,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,295,100,Normal,2026-03-06
+HOSP-1187,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,1069,300,Normal,2026-04-13
+HOSP-1188,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,333,100,Normal,2026-12-31
+HOSP-1189,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,170,50,Normal,2027-04-06
+HOSP-1190,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,140,150,CRITICAL,2027-09-20
+HOSP-1191,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,301,300,Normal,2027-07-23
+HOSP-1192,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,194,50,Normal,2026-02-07
+HOSP-1193,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,590,500,Normal,2026-07-29
+HOSP-1194,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,227,50,Normal,2027-04-04
+HOSP-1195,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1086,500,Normal,2027-10-29
+HOSP-1196,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,3,20,CRITICAL,2026-04-17
+HOSP-1197,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,669,150,Normal,2026-09-28
+HOSP-1198,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,215,200,Normal,2027-08-21
+HOSP-1199,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,43,100,CRITICAL,2026-08-25
+HOSP-1200,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,57,50,Normal,2026-01-23
+HOSP-1201,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,68,50,Normal,2027-03-25
+HOSP-1202,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,185,50,Normal,2027-05-22
+HOSP-1203,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,43,300,CRITICAL,2026-07-23
+HOSP-1204,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,668,200,Normal,2027-03-09
+HOSP-1205,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,371,200,Normal,2027-10-17
+HOSP-1206,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,39,20,Normal,2026-10-26
+HOSP-1207,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,17,500,CRITICAL,2026-03-18
+HOSP-1208,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,804,300,Normal,2027-10-21
+HOSP-1209,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,518,150,Normal,2026-07-20
+HOSP-1210,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,251,100,Normal,2026-05-02
+HOSP-1211,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,192,50,Normal,2027-06-26
+HOSP-1212,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,444,200,Normal,2026-03-23
+HOSP-1213,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,957,300,Normal,2027-03-20
+HOSP-1214,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,353,100,Normal,2027-03-08
+HOSP-1215,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,1672,500,Normal,2026-12-03
+HOSP-1216,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,213,500,CRITICAL,2025-12-27
+HOSP-1217,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,165,150,Normal,2026-04-10
+HOSP-1218,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,334,300,Normal,2027-11-06
+HOSP-1219,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,255,150,Normal,2026-11-14
+HOSP-1220,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,273,150,Normal,2026-10-20
+HOSP-1221,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,15,100,CRITICAL,2027-06-20
+HOSP-1222,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,199,50,Normal,2027-09-18
+HOSP-1223,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,37,20,Normal,2027-01-05
+HOSP-1224,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,405,150,Normal,2026-03-02
+HOSP-1225,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,903,300,Normal,2026-08-30
+HOSP-1226,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,2315,500,Normal,2026-11-24
+HOSP-1227,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,690,150,Normal,2026-03-15
+HOSP-1228,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,21,20,Normal,2027-03-23
+HOSP-1229,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,80,20,Normal,2027-01-02
+HOSP-1230,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,2344,500,Normal,2026-02-08
+HOSP-1231,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,414,300,Normal,2026-11-07
+HOSP-1232,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,798,300,Normal,2027-05-12
+HOSP-1233,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,20,15,Normal,2026-11-08
+HOSP-1234,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,64,200,CRITICAL,2027-06-27
+HOSP-1235,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,621,300,Normal,2027-01-30
+HOSP-1236,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,609,300,Normal,2027-03-10
+HOSP-1237,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,54,50,Normal,2027-11-20
+HOSP-1238,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,450,100,Normal,2027-05-12
+HOSP-1239,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,2231,500,Normal,2026-06-30
+HOSP-1240,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,220,150,Normal,2027-09-25
+HOSP-1241,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,54,20,Normal,2026-07-04
+HOSP-1242,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,23,20,Normal,2027-10-28
+HOSP-1243,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,457,100,Normal,2026-04-05
+HOSP-1244,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,211,50,Normal,2027-09-23
+HOSP-1245,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,401,100,Normal,2026-08-15
+HOSP-1246,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,1083,500,Normal,2025-12-31
+HOSP-1247,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,1412,500,Normal,2027-10-01
+HOSP-1248,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,80,20,Normal,2027-04-14
+HOSP-1249,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,722,200,Normal,2026-09-27
+HOSP-1250,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,51,20,Normal,2026-10-13
+HOSP-1251,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,246,50,Normal,2027-09-10
+HOSP-1252,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,94,20,Normal,2026-01-16
+HOSP-1253,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,70,50,Normal,2026-05-08
+HOSP-1254,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,105,150,CRITICAL,2027-09-09
+HOSP-1255,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,248,50,Normal,2027-09-06
+HOSP-1256,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,52,20,Normal,2027-10-20
+HOSP-1257,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,43,150,CRITICAL,2026-08-20
+HOSP-1258,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,820,200,Normal,2026-12-10
+HOSP-1259,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,261,100,Normal,2027-10-15
+HOSP-1260,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,544,150,Normal,2027-10-17
+HOSP-1261,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,1801,500,Normal,2026-08-19
+HOSP-1262,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,101,100,Normal,2026-04-10
+HOSP-1263,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,432,150,Normal,2026-09-01
+HOSP-1264,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,113,50,Normal,2026-08-07
+HOSP-1265,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,65,20,Normal,2027-08-01
+HOSP-1266,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,690,150,Normal,2026-06-10
+HOSP-1267,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,616,200,Normal,2026-08-25
+HOSP-1268,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,1217,300,Normal,2026-06-09
+HOSP-1269,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,888,200,Normal,2027-10-31
+HOSP-1270,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,1118,300,Normal,2026-03-08
+HOSP-1271,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,138,50,Normal,2026-08-19
+HOSP-1272,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,5,20,CRITICAL,2025-12-31
+HOSP-1273,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,3,100,CRITICAL,2026-11-14
+HOSP-1274,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,368,200,Normal,2027-08-12
+HOSP-1275,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,1203,500,Normal,2026-03-18
+HOSP-1276,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Blood Bag (O+ Positive),Blood Bank,4,20,CRITICAL,2026-08-27
+HOSP-1277,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,291,500,CRITICAL,2027-09-27
+HOSP-1278,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,2394,500,Normal,2027-10-31
+HOSP-1279,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,598,200,Normal,2027-03-06
+HOSP-1280,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,997,300,Normal,2027-05-21
+HOSP-1281,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,13,50,CRITICAL,2025-12-31
+HOSP-1282,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,748,200,Normal,2027-11-15
+HOSP-1283,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,145,200,CRITICAL,2027-01-08
+HOSP-1284,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,66,15,Normal,2027-03-29
+HOSP-1285,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,137,50,Normal,2026-08-06
+HOSP-1286,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,49,20,Normal,2027-07-13
+HOSP-1287,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,303,200,Normal,2027-07-02
+HOSP-1288,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,322,150,Normal,2026-01-02
+HOSP-1289,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,591,150,Normal,2026-10-11
+HOSP-1290,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,288,100,Normal,2026-07-13
+HOSP-1291,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,17,15,Normal,2026-03-05
+HOSP-1292,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,30,20,Normal,2026-10-27
+HOSP-1293,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,947,300,Normal,2026-02-12
+HOSP-1294,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,805,200,Normal,2026-07-12
+HOSP-1295,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,519,500,Normal,2026-06-28
+HOSP-1296,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,972,200,Normal,2027-11-21
+HOSP-1297,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,233,50,Normal,2026-02-20
+HOSP-1298,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,64,20,Normal,2027-10-02
+HOSP-1299,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,985,300,Normal,2026-04-13
+HOSP-1300,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,443,100,Normal,2026-06-28
+HOSP-1301,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,477,500,CRITICAL,2027-11-14
+HOSP-1302,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,68,50,Normal,2027-07-25
+HOSP-1303,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,110,50,Normal,2026-07-24
+HOSP-1304,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,1029,300,Normal,2026-12-28
+HOSP-1305,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,1111,500,Normal,2026-09-09
+HOSP-1306,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,13,20,CRITICAL,2027-06-07
+HOSP-1307,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,269,100,Normal,2026-12-01
+HOSP-1308,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,1399,300,Normal,2026-12-11
+HOSP-1309,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,1031,300,Normal,2026-01-11
+HOSP-1310,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,81,20,Normal,2026-05-01
+HOSP-1311,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,324,100,Normal,2027-03-22
+HOSP-1312,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,141,200,CRITICAL,2026-06-08
+HOSP-1313,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,210,100,Normal,2027-06-06
+HOSP-1314,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,463,300,Normal,2027-07-24
+HOSP-1315,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,457,150,Normal,2027-08-09
+HOSP-1316,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,1550,500,Normal,2025-12-27
+HOSP-1317,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,93,50,Normal,2027-07-26
+HOSP-1318,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,579,150,Normal,2026-07-02
+HOSP-1319,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,1150,300,Normal,2027-03-20
+HOSP-1320,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,970,200,Normal,2026-08-02
+HOSP-1321,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,361,100,Normal,2026-03-17
+HOSP-1322,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,111,150,CRITICAL,2025-12-29
+HOSP-1323,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,73,20,Normal,2026-07-03
+HOSP-1324,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,122,50,Normal,2026-03-22
+HOSP-1325,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,345,150,Normal,2026-03-10
+HOSP-1326,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,20,15,Normal,2026-01-05
+HOSP-1327,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,60,15,Normal,2027-06-25
+HOSP-1328,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1050,500,Normal,2026-02-26
+HOSP-1329,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,188,50,Normal,2026-12-08
+HOSP-1330,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,99,50,Normal,2026-04-03
+HOSP-1331,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,181,50,Normal,2027-05-27
+HOSP-1332,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,445,100,Normal,2027-06-27
+HOSP-1333,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,201,50,Normal,2027-08-06
+HOSP-1334,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,843,300,Normal,2026-03-17
+HOSP-1335,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,67,15,Normal,2026-06-04
+HOSP-1336,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,93,20,Normal,2027-02-02
+HOSP-1337,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,231,100,Normal,2027-11-19
+HOSP-1338,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,722,300,Normal,2026-01-01
+HOSP-1339,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,812,200,Normal,2026-04-10
+HOSP-1340,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,147,200,CRITICAL,2026-11-15
+HOSP-1341,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,369,100,Normal,2026-04-09
+HOSP-1342,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,146,50,Normal,2026-03-30
+HOSP-1343,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,8,20,CRITICAL,2027-11-04
+HOSP-1344,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,2182,500,Normal,2027-01-01
+HOSP-1345,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,103,300,CRITICAL,2025-12-30
+HOSP-1346,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,7,15,CRITICAL,2027-01-24
+HOSP-1347,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,1018,500,Normal,2027-09-09
+HOSP-1348,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,157,50,Normal,2026-09-05
+HOSP-1349,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,849,300,Normal,2026-08-12
+HOSP-1350,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,734,150,Normal,2026-10-10
+HOSP-1351,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,225,200,Normal,2026-12-30
+HOSP-1352,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,176,150,Normal,2027-06-20
+HOSP-1353,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,659,150,Normal,2026-10-24
+HOSP-1354,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,255,100,Normal,2027-11-04
+HOSP-1355,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,1076,500,Normal,2027-01-25
+HOSP-1356,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,77,100,CRITICAL,2026-07-22
+HOSP-1357,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,139,50,Normal,2026-01-07
+HOSP-1358,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,21,15,Normal,2026-04-26
+HOSP-1359,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,47,20,Normal,2026-09-21
+HOSP-1360,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,125,50,Normal,2026-07-23
+HOSP-1361,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,158,50,Normal,2027-05-28
+HOSP-1362,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,263,100,Normal,2027-03-31
+HOSP-1363,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,52,50,Normal,2027-03-24
+HOSP-1364,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,901,300,Normal,2027-01-06
+HOSP-1365,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,829,500,Normal,2026-12-31
+HOSP-1366,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,1396,500,Normal,2027-10-05
+HOSP-1367,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,288,100,Normal,2027-03-15
+HOSP-1368,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,689,500,Normal,2026-03-03
+HOSP-1369,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,3,15,CRITICAL,2027-03-02
+HOSP-1370,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,144,100,Normal,2026-09-09
+HOSP-1371,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,22,15,Normal,2027-07-05
+HOSP-1372,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,242,50,Normal,2026-02-08
+HOSP-1373,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,68,50,Normal,2026-03-18
+HOSP-1374,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,38,20,Normal,2026-09-21
+HOSP-1375,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,360,150,Normal,2026-05-31
+HOSP-1376,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,222,50,Normal,2026-11-14
+HOSP-1377,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,716,200,Normal,2026-07-23
+HOSP-1378,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,715,200,Normal,2026-10-01
+HOSP-1379,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,671,150,Normal,2025-12-29
+HOSP-1380,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,446,150,Normal,2027-08-04
+HOSP-1381,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,488,100,Normal,2027-02-06
+HOSP-1382,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,577,150,Normal,2026-08-23
+HOSP-1383,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,27,20,Normal,2027-05-12
+HOSP-1384,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,97,20,Normal,2026-10-06
+HOSP-1385,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,366,100,Normal,2026-11-03
+HOSP-1386,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,1670,500,Normal,2026-09-01
+HOSP-1387,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,79,50,Normal,2027-06-09
+HOSP-1388,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,556,150,Normal,2026-09-10
+HOSP-1389,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,820,500,Normal,2026-06-10
+HOSP-1390,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,2219,500,Normal,2026-11-21
+HOSP-1391,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,52,15,Normal,2027-10-02
+HOSP-1392,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,530,200,Normal,2026-02-26
+HOSP-1393,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,35,20,Normal,2026-03-14
+HOSP-1394,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,329,150,Normal,2026-11-13
+HOSP-1395,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,244,100,Normal,2026-08-01
+HOSP-1396,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,9,15,CRITICAL,2026-07-14
+HOSP-1397,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,423,200,Normal,2027-05-02
+HOSP-1398,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,46,20,Normal,2026-05-10
+HOSP-1399,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,457,100,Normal,2027-11-09
+HOSP-1400,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,243,50,Normal,2026-12-07
+HOSP-1401,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,39,20,Normal,2027-09-13
+HOSP-1402,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,323,150,Normal,2026-07-26
+HOSP-1403,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,819,200,Normal,2027-11-18
+HOSP-1404,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,45,20,Normal,2025-12-30
+HOSP-1405,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,27,15,Normal,2026-04-20
+HOSP-1406,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,2432,500,Normal,2026-11-24
+HOSP-1407,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,17,15,Normal,2026-01-20
+HOSP-1408,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,476,200,Normal,2026-04-07
+HOSP-1409,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,139,50,Normal,2026-04-11
+HOSP-1410,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,463,500,CRITICAL,2026-03-26
+HOSP-1411,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,702,150,Normal,2026-08-22
+HOSP-1412,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,1574,500,Normal,2026-01-30
+HOSP-1413,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,228,50,Normal,2027-06-21
+HOSP-1414,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,56,20,Normal,2026-03-12
+HOSP-1415,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,80,20,Normal,2027-02-21
+HOSP-1416,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,1,15,CRITICAL,2027-07-21
+HOSP-1417,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,218,200,Normal,2026-08-28
+HOSP-1418,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,4,500,CRITICAL,2026-05-09
+HOSP-1419,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,1110,300,Normal,2026-02-25
+HOSP-1420,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,21,20,Normal,2027-01-16
+HOSP-1421,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,39,15,Normal,2026-11-16
+HOSP-1422,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,320,500,CRITICAL,2027-03-21
+HOSP-1423,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,29,15,Normal,2026-08-09
+HOSP-1424,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,15,20,CRITICAL,2026-09-27
+HOSP-1425,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,111,150,CRITICAL,2026-02-17
+HOSP-1426,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,191,50,Normal,2027-09-16
+HOSP-1427,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,60,15,Normal,2027-09-03
+HOSP-1428,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,234,50,Normal,2027-10-17
+HOSP-1429,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Blood Bag (O+ Positive),Blood Bank,94,20,Normal,2026-12-06
+HOSP-1430,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,51,150,CRITICAL,2027-10-14
+HOSP-1431,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,684,500,Normal,2026-06-25
+HOSP-1432,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,61,20,Normal,2027-06-29
+HOSP-1433,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,1442,500,Normal,2027-09-30
+HOSP-1434,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,889,200,Normal,2026-05-18
+HOSP-1435,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Blood Bag (O+ Positive),Blood Bank,42,20,Normal,2027-07-29
+HOSP-1436,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,43,200,CRITICAL,2027-08-20
+HOSP-1437,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,569,200,Normal,2026-10-12
+HOSP-1438,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,485,100,Normal,2027-11-11
+HOSP-1439,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,1384,300,Normal,2026-09-17
+HOSP-1440,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,51,150,CRITICAL,2027-04-07
+HOSP-1441,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,75,20,Normal,2026-06-28
+HOSP-1442,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,566,150,Normal,2026-12-04
+HOSP-1443,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,525,150,Normal,2027-01-17
+HOSP-1444,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,944,200,Normal,2027-03-09
+HOSP-1445,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,544,200,Normal,2026-03-04
+HOSP-1446,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,268,100,Normal,2026-09-08
+HOSP-1447,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,100,100,Normal,2026-10-18
+HOSP-1448,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,163,50,Normal,2026-02-21
+HOSP-1449,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,889,200,Normal,2027-05-26
+HOSP-1450,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,809,200,Normal,2026-06-09
+HOSP-1451,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,155,150,Normal,2026-08-09
+HOSP-1452,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,2318,500,Normal,2027-11-05
+HOSP-1453,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,29,20,Normal,2027-08-03
+HOSP-1454,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,690,300,Normal,2026-04-20
+HOSP-1455,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,172,100,Normal,2027-10-08
+HOSP-1456,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,209,100,Normal,2026-04-25
+HOSP-1457,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,139,50,Normal,2026-05-07
+HOSP-1458,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,765,200,Normal,2026-01-01
+HOSP-1459,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,320,150,Normal,2026-12-18
+HOSP-1460,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,2275,500,Normal,2027-07-18
+HOSP-1461,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,112,50,Normal,2026-07-17
+HOSP-1462,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,1768,500,Normal,2027-09-05
+HOSP-1463,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,198,50,Normal,2027-08-03
+HOSP-1464,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,735,500,Normal,2026-02-05
+HOSP-1465,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,52,50,Normal,2027-10-05
+HOSP-1466,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,95,20,Normal,2026-11-11
+HOSP-1467,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,123,50,Normal,2026-12-23
+HOSP-1468,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,64,15,Normal,2027-05-13
+HOSP-1469,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,90,20,Normal,2027-05-29
+HOSP-1470,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,161,50,Normal,2027-02-13
+HOSP-1471,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,231,100,Normal,2026-10-24
+HOSP-1472,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,752,500,Normal,2026-08-19
+HOSP-1473,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,194,50,Normal,2026-06-04
+HOSP-1474,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,410,300,Normal,2026-09-02
+HOSP-1475,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,60,20,Normal,2027-05-30
+HOSP-1476,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,158,150,Normal,2026-09-08
+HOSP-1477,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,731,200,Normal,2027-01-25
+HOSP-1478,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,299,150,Normal,2026-03-12
+HOSP-1479,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,799,200,Normal,2027-08-01
+HOSP-1480,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,131,50,Normal,2027-04-24
+HOSP-1481,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,60,20,Normal,2027-08-11
+HOSP-1482,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,486,150,Normal,2027-11-10
+HOSP-1483,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,224,150,Normal,2027-10-24
+HOSP-1484,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,911,200,Normal,2027-01-05
+HOSP-1485,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,744,150,Normal,2027-01-13
+HOSP-1486,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,159,50,Normal,2027-09-17
+HOSP-1487,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,693,300,Normal,2026-06-26
+HOSP-1488,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,90,20,Normal,2026-11-19
+HOSP-1489,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,692,500,Normal,2027-08-10
+HOSP-1490,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,3,20,CRITICAL,2027-10-04
+HOSP-1491,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,69,150,CRITICAL,2027-01-18
+HOSP-1492,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,691,300,Normal,2027-01-01
+HOSP-1493,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,221,50,Normal,2027-10-15
+HOSP-1494,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,324,500,CRITICAL,2027-08-31
+HOSP-1495,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,2054,500,Normal,2026-09-29
+HOSP-1496,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,844,300,Normal,2026-07-16
+HOSP-1497,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,138,500,CRITICAL,2027-07-03
+HOSP-1498,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,886,300,Normal,2026-06-14
+HOSP-1499,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,57,15,Normal,2027-11-01
+HOSP-1500,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,482,200,Normal,2026-03-19
+HOSP-1501,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,760,200,Normal,2027-04-20
+HOSP-1502,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,190,500,CRITICAL,2027-10-01
+HOSP-1503,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,767,200,Normal,2027-08-19
+HOSP-1504,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,728,200,Normal,2026-10-29
+HOSP-1505,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,347,500,CRITICAL,2026-11-30
+HOSP-1506,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,526,500,Normal,2026-07-04
+HOSP-1507,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,373,200,Normal,2027-09-11
+HOSP-1508,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,118,100,Normal,2027-04-17
+HOSP-1509,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,485,200,Normal,2026-02-12
+HOSP-1510,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,2457,500,Normal,2027-03-20
+HOSP-1511,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,822,200,Normal,2027-05-26
+HOSP-1512,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,57,15,Normal,2027-04-26
+HOSP-1513,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,657,150,Normal,2027-02-05
+HOSP-1514,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,533,300,Normal,2027-02-25
+HOSP-1515,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,295,150,Normal,2027-08-02
+HOSP-1516,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,20,100,CRITICAL,2026-08-24
+HOSP-1517,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,755,200,Normal,2027-09-09
+HOSP-1518,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,190,150,Normal,2027-11-16
+HOSP-1519,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,99,100,CRITICAL,2027-05-23
+HOSP-1520,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,36,15,Normal,2027-09-29
+HOSP-1521,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,196,50,Normal,2026-08-14
+HOSP-1522,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,1512,500,Normal,2026-01-10
+HOSP-1523,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,15,15,Normal,2026-04-19
+HOSP-1524,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,2372,500,Normal,2027-02-28
+HOSP-1525,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,26,20,Normal,2027-11-05
+HOSP-1526,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,193,300,CRITICAL,2027-08-08
+HOSP-1527,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,906,200,Normal,2026-07-08
+HOSP-1528,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,51,20,Normal,2027-09-22
+HOSP-1529,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,20,50,CRITICAL,2025-12-28
+HOSP-1530,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,135,50,Normal,2027-10-15
+HOSP-1531,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,117,50,Normal,2027-02-08
+HOSP-1532,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,1039,300,Normal,2026-06-06
+HOSP-1533,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,9,20,CRITICAL,2027-02-20
+HOSP-1534,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,197,150,Normal,2027-05-15
+HOSP-1535,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,163,50,Normal,2027-03-26
+HOSP-1536,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,857,300,Normal,2027-02-20
+HOSP-1537,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,26,20,Normal,2027-10-28
+HOSP-1538,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,436,300,Normal,2027-05-15
+HOSP-1539,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,96,50,Normal,2027-08-13
+HOSP-1540,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,439,100,Normal,2026-09-02
+HOSP-1541,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,341,500,CRITICAL,2026-08-14
+HOSP-1542,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,29,20,Normal,2027-03-24
+HOSP-1543,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,229,50,Normal,2027-02-26
+HOSP-1544,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,64,15,Normal,2027-05-13
+HOSP-1545,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,83,20,Normal,2026-11-24
+HOSP-1546,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,1175,300,Normal,2026-03-06
+HOSP-1547,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,8,15,CRITICAL,2027-08-03
+HOSP-1548,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,390,100,Normal,2026-10-09
+HOSP-1549,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,521,300,Normal,2027-09-19
+HOSP-1550,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,39,15,Normal,2026-11-11
+HOSP-1551,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,196,50,Normal,2026-08-08
+HOSP-1552,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,226,50,Normal,2026-05-18
+HOSP-1553,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,750,150,Normal,2027-05-25
+HOSP-1554,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,729,150,Normal,2027-08-21
+HOSP-1555,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,38,200,CRITICAL,2026-11-26
+HOSP-1556,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,762,200,Normal,2027-08-18
+HOSP-1557,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,41,15,Normal,2026-02-18
+HOSP-1558,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,142,500,CRITICAL,2026-08-21
+HOSP-1559,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,76,100,CRITICAL,2027-02-20
+HOSP-1560,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,1316,500,Normal,2026-07-06
+HOSP-1561,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,969,300,Normal,2026-09-08
+HOSP-1562,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,720,200,Normal,2026-12-28
+HOSP-1563,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,180,100,Normal,2027-05-15
+HOSP-1564,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,1037,300,Normal,2027-11-19
+HOSP-1565,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,359,300,Normal,2026-04-24
+HOSP-1566,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,42,100,CRITICAL,2027-08-30
+HOSP-1567,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,99,20,Normal,2027-08-19
+HOSP-1568,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,1058,300,Normal,2027-06-30
+HOSP-1569,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,238,200,Normal,2026-08-28
+HOSP-1570,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,646,150,Normal,2026-08-13
+HOSP-1571,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,451,100,Normal,2026-10-14
+HOSP-1572,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,735,300,Normal,2026-11-20
+HOSP-1573,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,32,20,Normal,2026-02-11
+HOSP-1574,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,116,50,Normal,2026-07-14
+HOSP-1575,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,307,150,Normal,2027-11-17
+HOSP-1576,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,208,50,Normal,2026-12-18
+HOSP-1577,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,669,150,Normal,2027-07-02
+HOSP-1578,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,28,15,Normal,2026-12-10
+HOSP-1579,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,975,500,Normal,2026-03-08
+HOSP-1580,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,95,500,CRITICAL,2026-09-08
+HOSP-1581,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,527,200,Normal,2027-10-07
+HOSP-1582,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,32,150,CRITICAL,2026-11-16
+HOSP-1583,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,658,500,Normal,2027-05-09
+HOSP-1584,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,12,15,CRITICAL,2027-08-01
+HOSP-1585,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,132,500,CRITICAL,2026-02-16
+HOSP-1586,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,83,20,Normal,2026-08-16
+HOSP-1587,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,386,150,Normal,2027-07-20
+HOSP-1588,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,508,500,Normal,2027-07-26
+HOSP-1589,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,70,20,Normal,2027-06-28
+HOSP-1590,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,60,100,CRITICAL,2027-06-30
+HOSP-1591,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,470,150,Normal,2027-11-12
+HOSP-1592,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,171,50,Normal,2027-01-17
+HOSP-1593,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,167,100,Normal,2027-08-24
+HOSP-1594,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,139,50,Normal,2026-09-27
+HOSP-1595,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,210,50,Normal,2026-09-16
+HOSP-1596,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,23,200,CRITICAL,2027-08-28
+HOSP-1597,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,96,20,Normal,2027-05-27
+HOSP-1598,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,96,100,CRITICAL,2026-05-29
+HOSP-1599,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,219,50,Normal,2027-01-11
+HOSP-1600,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,81,50,Normal,2026-08-19
+HOSP-1601,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,21,20,Normal,2026-11-13
+HOSP-1602,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,215,50,Normal,2026-05-16
+HOSP-1603,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,782,200,Normal,2027-03-25
+HOSP-1604,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,1227,500,Normal,2026-09-04
+HOSP-1605,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,56,200,CRITICAL,2026-03-23
+HOSP-1606,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,214,50,Normal,2026-11-05
+HOSP-1607,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,732,200,Normal,2026-02-19
+HOSP-1608,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,566,200,Normal,2026-12-11
+HOSP-1609,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,203,100,Normal,2027-10-18
+HOSP-1610,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,602,300,Normal,2027-08-24
+HOSP-1611,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,306,100,Normal,2027-10-14
+HOSP-1612,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,57,50,Normal,2027-06-21
+HOSP-1613,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,604,300,Normal,2026-11-11
+HOSP-1614,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,15,15,Normal,2026-07-03
+HOSP-1615,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,214,50,Normal,2026-01-01
+HOSP-1616,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,4,20,CRITICAL,2026-02-15
+HOSP-1617,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,419,200,Normal,2026-08-08
+HOSP-1618,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,46,20,Normal,2027-04-07
+HOSP-1619,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,2109,500,Normal,2026-08-03
+HOSP-1620,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,19,100,CRITICAL,2027-02-21
+HOSP-1621,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,1884,500,Normal,2026-08-25
+HOSP-1622,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,902,300,Normal,2026-04-25
+HOSP-1623,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,305,200,Normal,2026-11-12
+HOSP-1624,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,1732,500,Normal,2026-11-10
+HOSP-1625,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,62,20,Normal,2027-02-14
+HOSP-1626,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,533,300,Normal,2026-08-28
+HOSP-1627,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,1581,500,Normal,2026-01-02
+HOSP-1628,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,550,500,Normal,2027-11-06
+HOSP-1629,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,2,20,CRITICAL,2027-03-07
+HOSP-1630,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,489,300,Normal,2026-09-11
+HOSP-1631,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,307,150,Normal,2027-08-06
+HOSP-1632,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,7,20,CRITICAL,2027-01-31
+HOSP-1633,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,19,15,Normal,2027-06-07
+HOSP-1634,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,755,300,Normal,2026-08-03
+HOSP-1635,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,282,100,Normal,2027-04-05
+HOSP-1636,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,134,50,Normal,2027-01-07
+HOSP-1637,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,2116,500,Normal,2026-08-22
+HOSP-1638,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,1412,300,Normal,2026-03-27
+HOSP-1639,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,876,200,Normal,2027-08-06
+HOSP-1640,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,1486,300,Normal,2026-01-25
+HOSP-1641,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,31,150,CRITICAL,2027-02-15
+HOSP-1642,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Blood Bag (O+ Positive),Blood Bank,30,20,Normal,2027-09-08
+HOSP-1643,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,763,200,Normal,2026-11-17
+HOSP-1644,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,33,15,Normal,2026-08-29
+HOSP-1645,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,46,15,Normal,2027-09-27
+HOSP-1646,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,435,200,Normal,2027-08-21
+HOSP-1647,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,596,150,Normal,2026-05-21
+HOSP-1648,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,672,200,Normal,2026-08-03
+HOSP-1649,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,202,100,Normal,2026-11-06
+HOSP-1650,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,29,20,Normal,2027-06-08
+HOSP-1651,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,540,200,Normal,2026-05-25
+HOSP-1652,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,1301,300,Normal,2027-08-04
+HOSP-1653,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,69,15,Normal,2026-03-31
+HOSP-1654,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,212,50,Normal,2027-01-08
+HOSP-1655,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,98,20,Normal,2026-09-02
+HOSP-1656,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,55,20,Normal,2026-12-28
+HOSP-1657,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,186,50,Normal,2026-02-26
+HOSP-1658,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,45,15,Normal,2027-08-05
+HOSP-1659,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,681,150,Normal,2027-02-02
+HOSP-1660,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,35,15,Normal,2026-06-17
+HOSP-1661,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,44,15,Normal,2027-02-15
+HOSP-1662,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,512,300,Normal,2027-11-19
+HOSP-1663,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,1993,500,Normal,2025-12-27
+HOSP-1664,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,321,100,Normal,2026-08-19
+HOSP-1665,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,531,300,Normal,2026-04-14
+HOSP-1666,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,711,150,Normal,2027-07-22
+HOSP-1667,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,191,300,CRITICAL,2026-12-13
+HOSP-1668,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,603,200,Normal,2026-05-15
+HOSP-1669,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Surgical Gloves (Sterile),Consumables,529,500,Normal,2026-07-09
+HOSP-1670,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,923,500,Normal,2027-01-06
+HOSP-1671,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,817,300,Normal,2027-04-26
+HOSP-1672,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,28,15,Normal,2026-03-14
+HOSP-1673,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,3,100,CRITICAL,2027-10-18
+HOSP-1674,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,190,500,CRITICAL,2027-03-20
+HOSP-1675,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,881,200,Normal,2027-09-17
+HOSP-1676,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,151,50,Normal,2027-11-08
+HOSP-1677,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,123,50,Normal,2026-06-05
+HOSP-1678,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,350,150,Normal,2027-10-25
+HOSP-1679,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,734,300,Normal,2026-03-28
+HOSP-1680,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,2070,500,Normal,2026-10-31
+HOSP-1681,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,41,50,CRITICAL,2026-04-27
+HOSP-1682,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,56,150,CRITICAL,2026-10-27
+HOSP-1683,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,857,200,Normal,2027-07-24
+HOSP-1684,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,246,200,Normal,2027-07-22
+HOSP-1685,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,456,150,Normal,2027-11-14
+HOSP-1686,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,4,20,CRITICAL,2027-05-03
+HOSP-1687,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,67,15,Normal,2026-09-26
+HOSP-1688,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,655,150,Normal,2027-04-20
+HOSP-1689,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,2489,500,Normal,2027-09-05
+HOSP-1690,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,N95 Masks,PPE,548,300,Normal,2027-10-04
+HOSP-1691,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,123,50,Normal,2026-11-27
+HOSP-1692,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,628,150,Normal,2026-02-13
+HOSP-1693,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,10,15,CRITICAL,2027-09-11
+HOSP-1694,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,79,20,Normal,2027-07-26
+HOSP-1695,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,68,100,CRITICAL,2026-10-11
+HOSP-1696,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,19,15,Normal,2027-11-11
+HOSP-1697,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,477,100,Normal,2026-09-16
+HOSP-1698,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,664,150,Normal,2027-02-08
+HOSP-1699,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,191,50,Normal,2026-09-03
+HOSP-1700,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,35,15,Normal,2027-01-04
+HOSP-1701,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,2107,500,Normal,2026-05-31
+HOSP-1702,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,695,200,Normal,2026-02-23
+HOSP-1703,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,83,50,Normal,2026-04-01
+HOSP-1704,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,75,20,Normal,2026-05-13
+HOSP-1705,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,1359,300,Normal,2027-07-26
+HOSP-1706,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,20,15,Normal,2027-01-06
+HOSP-1707,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,1394,300,Normal,2027-01-29
+HOSP-1708,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,265,150,Normal,2026-01-04
+HOSP-1709,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,1063,300,Normal,2027-02-20
+HOSP-1710,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,65,50,Normal,2026-07-01
+HOSP-1711,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,263,100,Normal,2026-04-09
+HOSP-1712,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,1132,500,Normal,2027-10-18
+HOSP-1713,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,480,100,Normal,2027-04-27
+HOSP-1714,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,100,100,Normal,2027-05-15
+HOSP-1715,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,93,20,Normal,2026-11-07
+HOSP-1716,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,371,300,Normal,2027-04-08
+HOSP-1717,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,147,100,Normal,2026-07-25
+HOSP-1718,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,439,100,Normal,2027-09-22
+HOSP-1719,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,901,300,Normal,2027-08-30
+HOSP-1720,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,21,20,Normal,2026-05-02
+HOSP-1721,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,303,150,Normal,2027-02-14
+HOSP-1722,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,17,15,Normal,2027-02-14
+HOSP-1723,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,484,150,Normal,2025-12-29
+HOSP-1724,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,202,100,Normal,2026-08-01
+HOSP-1725,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,18,15,Normal,2026-01-16
+HOSP-1726,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,48,15,Normal,2026-12-12
+HOSP-1727,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,155,150,Normal,2026-05-26
+HOSP-1728,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,364,100,Normal,2026-10-19
+HOSP-1729,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,25,20,Normal,2026-04-30
+HOSP-1730,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,72,20,Normal,2027-08-08
+HOSP-1731,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,167,50,Normal,2027-02-12
+HOSP-1732,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,56,15,Normal,2026-01-09
+HOSP-1733,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,75,15,Normal,2027-09-02
+HOSP-1734,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,50,15,Normal,2026-01-01
+HOSP-1735,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,449,200,Normal,2026-02-13
+HOSP-1736,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,14,20,CRITICAL,2026-11-29
+HOSP-1737,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,2300,500,Normal,2027-04-23
+HOSP-1738,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,29,15,Normal,2027-08-03
+HOSP-1739,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,14,15,CRITICAL,2026-07-21
+HOSP-1740,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,221,200,Normal,2027-05-12
+HOSP-1741,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,741,200,Normal,2027-07-29
+HOSP-1742,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,16,15,Normal,2026-05-15
+HOSP-1743,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,280,150,Normal,2027-05-21
+HOSP-1744,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,409,300,Normal,2027-09-28
+HOSP-1745,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,60,50,Normal,2026-09-28
+HOSP-1746,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,24,15,Normal,2027-10-17
+HOSP-1747,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,586,500,Normal,2026-01-14
+HOSP-1748,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Remdesivir Injection,Medicine,67,100,CRITICAL,2027-10-12
+HOSP-1749,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,127,100,Normal,2026-05-29
+HOSP-1750,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,900,500,Normal,2027-04-22
+HOSP-1751,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,738,150,Normal,2026-06-20
+HOSP-1752,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,66,50,Normal,2026-01-31
+HOSP-1753,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,752,200,Normal,2026-12-30
+HOSP-1754,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,234,150,Normal,2027-11-05
+HOSP-1755,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,444,100,Normal,2026-12-06
+HOSP-1756,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,44,20,Normal,2026-12-01
+HOSP-1757,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,625,150,Normal,2027-07-18
+HOSP-1758,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,1130,500,Normal,2026-09-24
+HOSP-1759,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,442,100,Normal,2027-09-26
+HOSP-1760,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,58,20,Normal,2026-10-13
+HOSP-1761,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,15,15,Normal,2027-06-19
+HOSP-1762,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,776,500,Normal,2027-09-07
+HOSP-1763,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,539,150,Normal,2026-06-28
+HOSP-1764,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,2366,500,Normal,2026-04-04
+HOSP-1765,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,561,200,Normal,2026-09-17
+HOSP-1766,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,72,20,Normal,2027-08-27
+HOSP-1767,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,96,50,Normal,2027-03-11
+HOSP-1768,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,912,200,Normal,2026-11-22
+HOSP-1769,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,166,50,Normal,2027-10-15
+HOSP-1770,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,20,20,Normal,2026-11-09
+HOSP-1771,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,15,15,Normal,2026-12-29
+HOSP-1772,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Ventilator Circuit,Equipment,16,15,Normal,2027-10-26
+HOSP-1773,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,56,15,Normal,2027-01-26
+HOSP-1774,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,586,500,Normal,2026-04-18
+HOSP-1775,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,116,50,Normal,2027-09-15
+HOSP-1776,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,4,15,CRITICAL,2026-03-01
+HOSP-1777,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,178,100,Normal,2027-10-11
+HOSP-1778,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,54,20,Normal,2027-03-11
+HOSP-1779,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1088,500,Normal,2026-03-28
+HOSP-1780,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,677,500,Normal,2026-08-08
+HOSP-1781,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,38,20,Normal,2027-09-13
+HOSP-1782,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,51,15,Normal,2026-05-28
+HOSP-1783,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,8,15,CRITICAL,2027-04-28
+HOSP-1784,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,194,100,Normal,2026-11-03
+HOSP-1785,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,847,500,Normal,2027-07-18
+HOSP-1786,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,274,150,Normal,2027-07-22
+HOSP-1787,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,155,500,CRITICAL,2027-11-01
+HOSP-1788,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,2297,500,Normal,2026-08-29
+HOSP-1789,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,21,15,Normal,2026-12-02
+HOSP-1790,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,88,50,Normal,2027-09-28
+HOSP-1791,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,137,50,Normal,2026-06-27
+HOSP-1792,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,392,150,Normal,2027-06-11
+HOSP-1793,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,44,15,Normal,2027-02-17
+HOSP-1794,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,541,150,Normal,2027-08-15
+HOSP-1795,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,10,15,CRITICAL,2027-02-21
+HOSP-1796,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,481,100,Normal,2026-09-27
+HOSP-1797,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,376,100,Normal,2027-02-17
+HOSP-1798,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,423,150,Normal,2027-07-18
+HOSP-1799,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,14,100,CRITICAL,2026-01-25
+HOSP-1800,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,61,15,Normal,2027-07-31
+HOSP-1801,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,157,50,Normal,2026-07-25
+HOSP-1802,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,158,50,Normal,2027-08-07
+HOSP-1803,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,34,150,CRITICAL,2027-08-12
+HOSP-1804,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,233,50,Normal,2026-09-18
+HOSP-1805,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,690,300,Normal,2027-09-16
+HOSP-1806,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,20,15,Normal,2026-09-22
+HOSP-1807,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,58,150,CRITICAL,2027-06-11
+HOSP-1808,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,67,20,Normal,2027-07-10
+HOSP-1809,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,69,15,Normal,2026-08-21
+HOSP-1810,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,223,50,Normal,2026-02-16
+HOSP-1811,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,357,150,Normal,2025-12-26
+HOSP-1812,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,80,20,Normal,2026-12-18
+HOSP-1813,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,287,100,Normal,2027-09-11
+HOSP-1814,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,975,300,Normal,2026-06-02
+HOSP-1815,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,136,100,Normal,2027-11-15
+HOSP-1816,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,367,300,Normal,2026-04-14
+HOSP-1817,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,279,100,Normal,2027-07-26
+HOSP-1818,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,127,200,CRITICAL,2026-11-14
+HOSP-1819,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,654,150,Normal,2027-08-21
+HOSP-1820,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,86,50,Normal,2026-06-08
+HOSP-1821,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,47,50,CRITICAL,2027-02-20
+HOSP-1822,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,373,100,Normal,2025-12-27
+HOSP-1823,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,331,150,Normal,2027-05-19
+HOSP-1824,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,2403,500,Normal,2027-06-07
+HOSP-1825,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,597,200,Normal,2026-05-10
+HOSP-1826,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,406,500,CRITICAL,2026-07-05
+HOSP-1827,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,50,20,Normal,2027-08-18
+HOSP-1828,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,25,15,Normal,2027-07-06
+HOSP-1829,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,200,100,Normal,2026-03-01
+HOSP-1830,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,848,300,Normal,2026-12-05
+HOSP-1831,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,20,50,CRITICAL,2026-02-03
+HOSP-1832,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,685,150,Normal,2026-08-24
+HOSP-1833,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,569,200,Normal,2027-03-20
+HOSP-1834,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,1159,300,Normal,2026-08-28
+HOSP-1835,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,562,150,Normal,2027-05-10
+HOSP-1836,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,165,50,Normal,2026-11-28
+HOSP-1837,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,242,50,Normal,2027-09-16
+HOSP-1838,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,1213,300,Normal,2026-09-26
+HOSP-1839,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,68,15,Normal,2027-06-20
+HOSP-1840,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,20,15,Normal,2027-07-18
+HOSP-1841,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,304,300,Normal,2026-11-11
+HOSP-1842,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,60,20,Normal,2026-07-13
+HOSP-1843,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,34,100,CRITICAL,2026-11-08
+HOSP-1844,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,80,20,Normal,2027-07-24
+HOSP-1845,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,29,15,Normal,2026-05-04
+HOSP-1846,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,2295,500,Normal,2026-09-07
+HOSP-1847,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,56,100,CRITICAL,2026-09-26
+HOSP-1848,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,188,50,Normal,2026-01-28
+HOSP-1849,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,103,50,Normal,2026-06-17
+HOSP-1850,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Blood Bag (O+ Positive),Blood Bank,9,20,CRITICAL,2027-06-02
+HOSP-1851,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,153,150,Normal,2026-09-13
+HOSP-1852,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,852,500,Normal,2026-12-05
+HOSP-1853,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,48,300,CRITICAL,2026-11-30
+HOSP-1854,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,45,15,Normal,2026-10-18
+HOSP-1855,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,142,100,Normal,2027-07-05
+HOSP-1856,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,38,15,Normal,2027-02-28
+HOSP-1857,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Surgical Gloves (Sterile),Consumables,595,500,Normal,2026-09-06
+HOSP-1858,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,183,50,Normal,2027-10-06
+HOSP-1859,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,70,50,Normal,2026-01-16
+HOSP-1860,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,10,15,CRITICAL,2027-07-17
+HOSP-1861,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,708,150,Normal,2026-12-31
+HOSP-1862,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,763,500,Normal,2027-06-22
+HOSP-1863,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,348,200,Normal,2027-10-05
+HOSP-1864,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,58,15,Normal,2026-11-03
+HOSP-1865,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,219,200,Normal,2027-11-03
+HOSP-1866,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,57,20,Normal,2027-09-24
+HOSP-1867,Thanjavur Medical College,Thanjavur,10.787,79.1378,Oxygen Cylinder (B-Type),Respiratory,87,50,Normal,2026-10-07
+HOSP-1868,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,2141,500,Normal,2027-10-20
+HOSP-1869,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,891,200,Normal,2026-09-29
+HOSP-1870,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,592,150,Normal,2027-07-26
+HOSP-1871,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,95,200,CRITICAL,2026-04-19
+HOSP-1872,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,487,200,Normal,2027-02-14
+HOSP-1873,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,1325,500,Normal,2027-08-03
+HOSP-1874,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,1104,300,Normal,2025-12-28
+HOSP-1875,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Paracetamol IV,Medicine,808,200,Normal,2026-12-11
+HOSP-1876,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Paracetamol IV,Medicine,157,200,CRITICAL,2026-12-27
+HOSP-1877,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,495,100,Normal,2027-11-16
+HOSP-1878,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,788,200,Normal,2027-02-22
+HOSP-1879,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,96,20,Normal,2027-10-22
+HOSP-1880,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,51,20,Normal,2026-09-07
+HOSP-1881,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Remdesivir Injection,Medicine,197,100,Normal,2026-03-13
+HOSP-1882,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,48,15,Normal,2027-10-13
+HOSP-1883,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Ventilator Circuit,Equipment,15,15,Normal,2026-11-21
+HOSP-1884,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Blood Bag (O+ Positive),Blood Bank,67,20,Normal,2026-03-31
+HOSP-1885,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,2411,500,Normal,2027-06-15
+HOSP-1886,Madurai Medical College,Madurai,9.9252,78.1198,Oxygen Cylinder (B-Type),Respiratory,191,50,Normal,2027-01-24
+HOSP-1887,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,405,200,Normal,2027-06-08
+HOSP-1888,Thanjavur Medical College,Thanjavur,10.787,79.1378,N95 Masks,PPE,1323,300,Normal,2026-03-13
+HOSP-1889,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,296,150,Normal,2026-06-29
+HOSP-1890,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Paracetamol IV,Medicine,770,200,Normal,2026-02-10
+HOSP-1891,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Ventilator Circuit,Equipment,6,15,CRITICAL,2026-08-30
+HOSP-1892,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,24,15,Normal,2026-02-19
+HOSP-1893,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,657,200,Normal,2026-01-18
+HOSP-1894,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1979,500,Normal,2027-08-19
+HOSP-1895,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,94,20,Normal,2026-06-07
+HOSP-1896,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,1216,300,Normal,2026-10-26
+HOSP-1897,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,2244,500,Normal,2026-12-18
+HOSP-1898,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Ventilator Circuit,Equipment,1,15,CRITICAL,2027-04-05
+HOSP-1899,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,215,50,Normal,2027-04-07
+HOSP-1900,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,451,100,Normal,2026-02-14
+HOSP-1901,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,715,300,Normal,2026-10-12
+HOSP-1902,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,28,50,CRITICAL,2026-03-01
+HOSP-1903,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,608,200,Normal,2026-10-03
+HOSP-1904,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,28,15,Normal,2027-01-13
+HOSP-1905,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Surgical Gloves (Sterile),Consumables,251,500,CRITICAL,2027-04-24
+HOSP-1906,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,4,15,CRITICAL,2027-10-12
+HOSP-1907,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Oxygen Cylinder (B-Type),Respiratory,148,50,Normal,2027-05-13
+HOSP-1908,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Insulin Vials,Medicine,699,150,Normal,2026-08-05
+HOSP-1909,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,164,100,Normal,2026-08-13
+HOSP-1910,Salem Govt Hospital,Salem,11.6643,78.146,Oxygen Cylinder (B-Type),Respiratory,142,50,Normal,2026-11-11
+HOSP-1911,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,150,50,Normal,2026-11-22
+HOSP-1912,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,0,50,CRITICAL,2026-06-03
+HOSP-1913,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1762,500,Normal,2027-01-21
+HOSP-1914,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Insulin Vials,Medicine,209,150,Normal,2026-05-16
+HOSP-1915,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,1,50,CRITICAL,2026-08-05
+HOSP-1916,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,326,100,Normal,2026-12-27
+HOSP-1917,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,598,500,Normal,2027-05-14
+HOSP-1918,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,618,150,Normal,2027-09-22
+HOSP-1919,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,50,20,Normal,2027-08-10
+HOSP-1920,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,54,15,Normal,2026-08-19
+HOSP-1921,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,72,20,Normal,2025-12-29
+HOSP-1922,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1504,500,Normal,2026-08-13
+HOSP-1923,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,296,100,Normal,2027-09-28
+HOSP-1924,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,443,100,Normal,2027-11-10
+HOSP-1925,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,996,200,Normal,2027-10-12
+HOSP-1926,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,390,100,Normal,2027-11-17
+HOSP-1927,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Oxygen Cylinder (B-Type),Respiratory,75,50,Normal,2026-06-12
+HOSP-1928,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,521,200,Normal,2026-03-14
+HOSP-1929,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,1228,300,Normal,2027-04-21
+HOSP-1930,Thanjavur Medical College,Thanjavur,10.787,79.1378,Remdesivir Injection,Medicine,221,100,Normal,2026-06-19
+HOSP-1931,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,44,15,Normal,2027-07-24
+HOSP-1932,Thanjavur Medical College,Thanjavur,10.787,79.1378,Paracetamol IV,Medicine,309,200,Normal,2027-10-10
+HOSP-1933,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,45,15,Normal,2027-08-13
+HOSP-1934,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,316,150,Normal,2027-06-09
+HOSP-1935,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,1724,500,Normal,2026-05-16
+HOSP-1936,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,220,50,Normal,2027-01-30
+HOSP-1937,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,137,100,Normal,2027-02-02
+HOSP-1938,Salem Govt Hospital,Salem,11.6643,78.146,Blood Bag (O+ Positive),Blood Bank,0,20,CRITICAL,2026-07-31
+HOSP-1939,Thanjavur Medical College,Thanjavur,10.787,79.1378,Blood Bag (O+ Positive),Blood Bank,48,20,Normal,2026-05-14
+HOSP-1940,Salem Govt Hospital,Salem,11.6643,78.146,Ventilator Circuit,Equipment,61,15,Normal,2026-04-14
+HOSP-1941,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Ventilator Circuit,Equipment,20,15,Normal,2026-06-23
+HOSP-1942,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,32,50,CRITICAL,2026-08-15
+HOSP-1943,Madurai Medical College,Madurai,9.9252,78.1198,Blood Bag (O+ Positive),Blood Bank,82,20,Normal,2027-04-05
+HOSP-1944,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Blood Bag (O+ Positive),Blood Bank,11,20,CRITICAL,2027-09-09
+HOSP-1945,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,48,15,Normal,2027-11-02
+HOSP-1946,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,183,100,Normal,2027-03-18
+HOSP-1947,Madurai Medical College,Madurai,9.9252,78.1198,Ventilator Circuit,Equipment,38,15,Normal,2026-07-16
+HOSP-1948,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Insulin Vials,Medicine,541,150,Normal,2027-04-14
+HOSP-1949,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,415,100,Normal,2026-02-09
+HOSP-1950,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,40,50,CRITICAL,2026-07-12
+HOSP-1951,Salem Govt Hospital,Salem,11.6643,78.146,Remdesivir Injection,Medicine,117,100,Normal,2026-10-08
+HOSP-1952,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Remdesivir Injection,Medicine,366,100,Normal,2027-10-26
+HOSP-1953,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,355,150,Normal,2026-07-03
+HOSP-1954,Thanjavur Medical College,Thanjavur,10.787,79.1378,Insulin Vials,Medicine,627,150,Normal,2026-12-24
+HOSP-1955,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,717,200,Normal,2027-03-19
+HOSP-1956,Salem Govt Hospital,Salem,11.6643,78.146,Insulin Vials,Medicine,615,150,Normal,2027-07-15
+HOSP-1957,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,167,50,Normal,2027-04-19
+HOSP-1958,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Paracetamol IV,Medicine,804,200,Normal,2026-10-26
+HOSP-1959,Madurai Medical College,Madurai,9.9252,78.1198,Surgical Gloves (Sterile),Consumables,894,500,Normal,2027-03-30
+HOSP-1960,Madurai Medical College,Madurai,9.9252,78.1198,Insulin Vials,Medicine,705,150,Normal,2026-02-13
+HOSP-1961,Madurai Medical College,Madurai,9.9252,78.1198,N95 Masks,PPE,953,300,Normal,2027-04-17
+HOSP-1962,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,1357,500,Normal,2026-04-09
+HOSP-1963,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Surgical Gloves (Sterile),Consumables,1603,500,Normal,2026-05-25
+HOSP-1964,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,163,100,Normal,2026-07-26
+HOSP-1965,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,N95 Masks,PPE,1383,300,Normal,2026-06-25
+HOSP-1966,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,217,50,Normal,2027-04-05
+HOSP-1967,Madurai Medical College,Madurai,9.9252,78.1198,Paracetamol IV,Medicine,6,200,CRITICAL,2027-03-05
+HOSP-1968,Madurai Medical College,Madurai,9.9252,78.1198,Remdesivir Injection,Medicine,317,100,Normal,2026-02-13
+HOSP-1969,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1629,500,Normal,2026-09-12
+HOSP-1970,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,612,150,Normal,2026-09-10
+HOSP-1971,Coimbatore Medical College,Coimbatore,11.0168,76.9558,N95 Masks,PPE,109,300,CRITICAL,2026-10-28
+HOSP-1972,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,31,20,Normal,2026-05-17
+HOSP-1973,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,51,15,Normal,2027-10-22
+HOSP-1974,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Oxygen Cylinder (B-Type),Respiratory,20,50,CRITICAL,2027-01-16
+HOSP-1975,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Oxygen Cylinder (B-Type),Respiratory,15,50,CRITICAL,2027-01-26
+HOSP-1976,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,425,200,Normal,2027-11-09
+HOSP-1977,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Remdesivir Injection,Medicine,6,100,CRITICAL,2027-04-12
+HOSP-1978,Apollo Speciality Hospitals,Trichy,10.7905,78.7047,Oxygen Cylinder (B-Type),Respiratory,215,50,Normal,2026-10-18
+HOSP-1979,Thanjavur Medical College,Thanjavur,10.787,79.1378,Ventilator Circuit,Equipment,61,15,Normal,2027-05-20
+HOSP-1980,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,Insulin Vials,Medicine,154,150,Normal,2026-01-28
+HOSP-1981,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Insulin Vials,Medicine,570,150,Normal,2026-09-26
+HOSP-1982,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,N95 Masks,PPE,495,300,Normal,2027-02-02
+HOSP-1983,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Remdesivir Injection,Medicine,325,100,Normal,2026-08-05
+HOSP-1984,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,1311,300,Normal,2027-11-20
+HOSP-1985,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,2000,500,Normal,2027-09-22
+HOSP-1986,Coimbatore Medical College,Coimbatore,11.0168,76.9558,Blood Bag (O+ Positive),Blood Bank,42,20,Normal,2027-11-04
+HOSP-1987,Tirunelveli Medical College,Tirunelveli,8.7139,77.7567,Blood Bag (O+ Positive),Blood Bank,46,20,Normal,2026-10-23
+HOSP-1988,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Blood Bag (O+ Positive),Blood Bank,17,20,CRITICAL,2027-01-02
+HOSP-1989,Salem Govt Hospital,Salem,11.6643,78.146,N95 Masks,PPE,990,300,Normal,2027-04-18
+HOSP-1990,Salem Govt Hospital,Salem,11.6643,78.146,Surgical Gloves (Sterile),Consumables,1621,500,Normal,2027-04-27
+HOSP-1991,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Surgical Gloves (Sterile),Consumables,1000,500,Normal,2027-10-19
+HOSP-1992,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,727,200,Normal,2027-03-11
+HOSP-1993,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,328,200,Normal,2027-01-08
+HOSP-1994,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,417,200,Normal,2026-11-18
+HOSP-1995,Thanjavur Medical College,Thanjavur,10.787,79.1378,Surgical Gloves (Sterile),Consumables,1584,500,Normal,2027-10-17
+HOSP-1996,Govt Hospital Srivilliputhur,Srivilliputhur,9.5105,77.633,N95 Masks,PPE,782,300,Normal,2026-11-05
+HOSP-1997,Rajiv Gandhi Govt General Hospital,Chennai,13.0827,80.2707,Paracetamol IV,Medicine,589,200,Normal,2026-02-20
+HOSP-1998,Salem Govt Hospital,Salem,11.6643,78.146,Paracetamol IV,Medicine,95,200,CRITICAL,2027-10-06
+HOSP-1999,Tirunelveli Medical College,Tirunelveli,8.7139,77.0,Paracetamol IV,Medicine,737,200,Normal,2026-11-13
